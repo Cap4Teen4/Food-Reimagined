@@ -15,7 +15,8 @@ introduces a full progression system. (Work in Progress)
 
 
 **Credits to:**       
-**DuckSaysQuackQuack** https://www.nexusmods.com/palworld/mods/3159
+**DuckSaysQuackQuack** 
+https://www.nexusmods.com/palworld/mods/3159
 Helped Inspire the New Foods
 Wouldn't have been able to play with it and learn without it!
 
