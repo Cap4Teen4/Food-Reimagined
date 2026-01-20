@@ -1,0 +1,69 @@
+{
+  "MOD_CoffeeBeans": {
+    "Icon": "$resource/FoodReimagined/CoffeeBeans"
+  },
+  "MOD_Espresso": {
+    "Icon": "$resource/FoodReimagined/Espresso"
+  },
+  "MOD_HotCoffee": {
+    "Icon": "$resource/FoodReimagined/HotCoffee"
+  },
+  "MOD_CinnamonBun": {
+    "Icon": "$resource/FoodReimagined/CinnamonBun"
+  },
+  "MOD_Oats": {
+    "Icon": "$resource/FoodReimagined/Oats"
+  },
+  "MOD_Oatmeal": {
+    "Icon": "$resource/FoodReimagined/Oatmeal"
+  },
+  "MOD_FrenchToast": {
+    "Icon": "$resource/FoodReimagined/FrenchToast"
+  },
+  "MOD_ChocolateCake": {
+    "Icon": "$resource/FoodReimagined/ChocolateCake"
+  },
+  "MOD_Mocha": {
+    "Icon": "$resource/FoodReimagined/Mocha"
+  },
+  "MOD_Butter": {
+    "Icon": "$resource/FoodReimagined/Butter"
+  },
+  "MOD_Chocolate": {
+    "Icon": "$resource/FoodReimagined/Chocolate"
+  },
+  "MOD_CocoaPowder": {
+    "Icon": "$resource/FoodReimagined/CocoaPowder"
+  },
+  "MOD_CocoaBeans": {
+    "Icon": "$resource/FoodReimagined/CocoaBeans"
+  },
+  "MOD_Oreos": {
+    "Icon": "$resource/FoodReimagined/Oreos"
+  },
+  "MOD_PorkRibs": {
+    "Icon": "$resource/FoodReimagined/PorkRibs"
+  },
+  "MOD_ChickenBurger": {
+    "Icon": "$resource/FoodReimagined/ChickenBurger"
+  },  
+  "MOD_Chicken_Burger": {
+    "Icon": "$resource/FoodReimagined/ChickenBurger"
+  },
+  "MOD_ChickenNuggets": {
+    "Icon": "$resource/FoodReimagined/ChickenNuggets"
+  },
+  "MOD_Chicken_Nuggets": {
+    "Icon": "$resource/FoodReimagined/ChickenNuggets"
+  },
+  "MOD_Stuffing": {
+    "Icon": "$resource/FoodReimagined/Stuffing"
+  },
+  "MOD_Stuffings": {
+    "Icon": "$resource/FoodReimagined/Stuffing"
+  },
+  "MOD_RedBerryOatmeal": {
+    "Icon": "$resource/FoodReimagined/RedBerryOatmeal"
+  }
+
+}
