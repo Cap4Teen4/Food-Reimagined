@@ -15,7 +15,7 @@
         "RestoreSatiety": 75,
         "RestoreSanity": 5,
         "RestoreHP": 7,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2250.0,
@@ -43,7 +43,7 @@
         "RestoreSatiety": 105,
         "RestoreSanity": 10,
         "RestoreHP": 0,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 1500.0,
@@ -73,7 +73,7 @@
         "RestoreSatiety": 40,
         "RestoreSanity": 5,
         "RestoreHP": 5,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 1500.0,
@@ -84,7 +84,7 @@
             "Material3_Count": 1,
             "Material3_Id": "Milk"
         }
-    },
+        },
        "MOD_Mocha": {
         "Name": "Mocha Latte",
         "Description": "A rich and creamy coffee drink with chocolate flavoring.",
@@ -101,7 +101,7 @@
         "RestoreSatiety": 50,
         "RestoreSanity": 10,
         "RestoreHP": 20,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 1500.0,
@@ -129,7 +129,7 @@
         "RestoreSatiety": 145,
         "RestoreSanity": 5,
         "RestoreHP": 20,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -159,7 +159,7 @@
         "RestoreSatiety": 145,
         "RestoreSanity": 5,
         "RestoreHP": 20,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -189,7 +189,7 @@
         "RestoreSatiety": 65,
         "RestoreSanity": 5,
         "RestoreHP": 7,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -217,7 +217,7 @@
         "RestoreSatiety": 65,
         "RestoreSanity": 5,
         "RestoreHP": 7,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -243,7 +243,7 @@
         "RestoreSatiety": 85,
         "RestoreSanity": 5,
         "RestoreHP": 10,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -273,7 +273,7 @@
         "RestoreSatiety": 105,
         "RestoreSanity": 20,
         "RestoreHP": 14,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -303,7 +303,7 @@
         "RestoreSatiety": 65,
         "RestoreSanity": 4,
         "RestoreHP": 4,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -331,7 +331,7 @@
         "RestoreSatiety": 60,
         "RestoreSanity": 4,
         "RestoreHP": 6,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -361,7 +361,7 @@
         "RestoreSatiety": 75,
         "RestoreSanity": 4,
         "RestoreHP": 6,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -391,7 +391,7 @@
         "RestoreSatiety": 65,
         "RestoreSanity": 4,
         "RestoreHP": 6,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
@@ -421,7 +421,7 @@
         "RestoreSatiety": 95,
         "RestoreSanity": 4,
         "RestoreHP": 5,
-        "CorruptionFactor": 0.1,
+        "CorruptionFactor": 0.0,
         "Recipe": {
             "Product_Count": 1,
             "WorkAmount": 2400.0,
