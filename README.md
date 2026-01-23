@@ -1,17 +1,28 @@
 # 📦FoodReimagined 📦
 introduces a full progression system. (Work in Progress)
 
+
 ⚠️ **Compatibility Notes!**
 - Designed to work alongside vanilla food systems
 - May overlap with other food mods that edit the same item IDs
 - Load order priority recommended if using multiple food mods
 - Made along Side Food Expansion (47 New Recipes)
 
+
+📌 **TL;DR – What This Mod Does**
+• Adds coffee drinks, baked goods, desserts, and expanded meat meals
+• Introduces ingredient progression (beans → powder → chocolate, oats → oatmeal, etc.)
+• Adds sanity-focused foods and drinks (coffee system)
+• Higher-tier foods require more ingredients and work, but give better rewards
+• Supports multiple meat variants for several recipes
+• Balanced for survival & multiplayer – no overpowered instant heals
+• Designed to feel vanilla-friendly, immersive, and server-safe
+
+
 ✔ **Works in singleplayer and multiplayer**
 ✔ **Server-friendly and configurable**
 ✔ **Designed for future expansion**
 **I'm Currently Using it on a Dedicated Server with my wife. No issues** ✔ 
-
 
 
 **Credits to:**       
@@ -20,20 +31,17 @@ https://www.nexusmods.com/palworld/mods/3159
 Helped Inspire the New Foods
 Wouldn't have been able to play with it and learn without it!
 
-
 📌 **Recommended Use**
 ✔ **Survival-focused servers**
 ✔ **RP-friendly worlds**
 ✔ **Players who enjoy farming & cooking loops**
 ✔ **Anyone wanting more Food Choices**
 
-
 🔁 **Design Notes:**
 - All foods are fully craftable
 - Ingredients flow into processing chains (beans → powder → chocolate, oats → oatmeal, etc.)
 - Ingredient chains encourage farming & cooking progression
 - Higher-tier foods require more steps and tools, but offer better rewards
-
 
 **Food List:**
 
@@ -47,7 +55,6 @@ Wouldn't have been able to play with it and learn without it!
 • Crafted from 4× Coffee Beans
 🍫 Mocha Latte
 • Crafted from Hot Coffee + Chocolate + Milk
-
 
 🍞 **Breakfast & Bakery Foods**
 
@@ -63,7 +70,6 @@ Wouldn't have been able to play with it and learn without it!
 🍓 Red Berry Oatmeal
 • Crafted from Oats + Berries + Pal Fluid
 
-
 🍫 **Chocolate & Desserts**
 
 🍫 Cocoa Beans
@@ -77,7 +83,6 @@ Wouldn't have been able to play with it and learn without it!
 🍪 Oreos
 • Crafted from Cocoa Powder + Flour + Milk
 • Small, quick-to-eat sanity snack
-
 
 🍖 **Meat-Based Meals**
 
@@ -93,14 +98,4 @@ Wouldn't have been able to play with it and learn without it!
 • Crafted from Eagle Meat + Carrot + Pan
 
 
-
-📌 **TL;DR – What This Mod Does**
-• Adds coffee drinks, baked goods, desserts, and expanded meat meals
-• Introduces ingredient progression (beans → powder → chocolate, oats → oatmeal, etc.)
-• Adds sanity-focused foods and drinks (coffee system)
-• Higher-tier foods require more ingredients and work, but give better rewards
-• Supports multiple meat variants for several recipes
-• Balanced for survival & multiplayer – no overpowered instant heals
-• Designed to feel vanilla-friendly, immersive, and server-safe
-
-
+Dev Note: Need to make a GoogleSheet For Recipes
