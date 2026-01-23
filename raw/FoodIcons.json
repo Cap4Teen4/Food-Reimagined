@@ -110,4 +110,18 @@
   "MOD_ChocolateChipPancakes": {
     "Icon": "$resource/FoodReimagined/ChocolateChipPancakes"
   }
+
+    ,
+
+    "MOD_RiceKrispie": {
+    "Icon": "$resource/FoodReimagined/RiceKrispies"
+  }  ,
+
+    "MOD_MarshMellows": {
+    "Icon": "$resource/FoodReimagined/MarshMellows"
+  }
+  ,
+      "MOD_RiceKrispieTreat": {
+    "Icon": "$resource/FoodReimagined/RiceKrispieTreat"
+  }
 }
